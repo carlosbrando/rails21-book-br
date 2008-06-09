@@ -1,5 +1,3 @@
-output/full_book.texttile
-output/book.pdf
-output/index.html
-.DS_Store
+output/book.*
 log/prince.log
+.DS_Store
