@@ -11,4 +11,3 @@ Um sumário, comentado e exemplificado, das novidades do Ruby on Rails 2.1, lan�
 ## Pendências conhecidas
 
 * Explicar o `Time.zone`
-* Rever e fazer as descrições dos capitulos.
