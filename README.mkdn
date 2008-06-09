@@ -1,0 +1,14 @@
+# Ruby on Rails 2.1: O que há de novo?
+
+Um sumário, comentado e exemplificado, das novidades do Ruby on Rails 2.1, lançado no dia 1º de junho de 2008.
+
+## Mantenedores
+
+* *Autor:* Carlos Brando ([http://www.nomedojogo.com](http://www.nomedojogo.com))
+* *Revisor:* Marcos Tapajós ([http://www.improveit.com.br/empresa/tapajos](http://www.improveit.com.br/empresa/tapajos))
+* *Capa:* Daniel Lopes ([http://blog.areacriacoes.com.br/](http://blog.areacriacoes.com.br/))
+
+** Pendências conhecidas
+
+* Explicar o `Time.zone`
+* Rever e fazer as descrições dos capitulos.
