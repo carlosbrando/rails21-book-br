@@ -8,7 +8,7 @@ Um sumário, comentado e exemplificado, das novidades do Ruby on Rails 2.1, lan�
 * *Revisor:* Marcos Tapajós ([http://www.improveit.com.br/empresa/tapajos](http://www.improveit.com.br/empresa/tapajos))
 * *Capa:* Daniel Lopes ([http://blog.areacriacoes.com.br/](http://blog.areacriacoes.com.br/))
 
-** Pendências conhecidas
+## Pendências conhecidas
 
 * Explicar o `Time.zone`
 * Rever e fazer as descrições dos capitulos.
